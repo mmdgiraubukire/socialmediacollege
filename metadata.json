@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Social Media College",
+  "description": "A comprehensive learning platform for social media skills with mobile money integration, courses, and interactive features.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
